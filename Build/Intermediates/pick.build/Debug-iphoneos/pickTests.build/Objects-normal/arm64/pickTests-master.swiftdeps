@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "a7ccbcd0e7f1081493ab323aa4be819b"
+build_time: [498181303, 713746000]
+inputs: 
+	"/Users/shimmennobuyoshi/Downloads/Mememe-master/pickTests/pickTests.swift": [482018058, 0]

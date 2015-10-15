@@ -1,0 +1,12 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "cf84440df1619c3d030dd1bd37fb8d61"
+build_time: [498181287, 308767000]
+inputs: 
+	"/Users/shimmennobuyoshi/Downloads/Mememe-master/pick/MemeTableViewCell.swift": [482018058, 0]
+	"/Users/shimmennobuyoshi/Downloads/Mememe-master/pick/MemeCollectionViewController.swift": [482018058, 0]
+	"/Users/shimmennobuyoshi/Downloads/Mememe-master/pick/MemedPictureViewController.swift": [482018058, 0]
+	"/Users/shimmennobuyoshi/Downloads/Mememe-master/pick/EditMemeController.swift": [498181286, 0]
+	"/Users/shimmennobuyoshi/Downloads/Mememe-master/pick/AppDelegate.swift": [482018058, 0]
+	"/Users/shimmennobuyoshi/Downloads/Mememe-master/pick/MemeCollectionViewCell.swift": [482018058, 0]
+	"/Users/shimmennobuyoshi/Downloads/Mememe-master/pick/MemeTableViewController.swift": [482018058, 0]
+	"/Users/shimmennobuyoshi/Downloads/Mememe-master/pick/Meme.swift": [482018058, 0]

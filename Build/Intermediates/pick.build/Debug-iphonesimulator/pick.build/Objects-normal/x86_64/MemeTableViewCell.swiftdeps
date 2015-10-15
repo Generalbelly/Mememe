@@ -1,0 +1,156 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MemeTableViewCell"
+provides-nominal:
+- "C4pick17MemeTableViewCell"
+provides-member:
+- ["C4pick17MemeTableViewCell", ""]
+provides-dynamic-lookup:
+- "secondLabel"
+- "memeImage"
+- "firstLabel"
+depends-top-level:
+- "UIImageView"
+- "MemeTableViewCell"
+- "UITableViewCell"
+- "UILabel"
+depends-member:
+- ["PSs9AnyObject", "firstLabel"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "memeImage"]
+- ["PSs9AnyObject", "secondLabel"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "firstLabel"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "memeImage"]
+- ["PSs11CVarArgType", "secondLabel"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "firstLabel"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "memeImage"]
+- ["PSs23CustomStringConvertible", "secondLabel"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "firstLabel"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "memeImage"]
+- ["PSs9Equatable", "secondLabel"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "firstLabel"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "memeImage"]
+- ["PSs8Hashable", "secondLabel"]
+- ["PSs8Hashable", ""]
+- ["C4pick17MemeTableViewCell", "UIImageView"]
+- ["C4pick17MemeTableViewCell", "UILabel"]
+- ["C4pick17MemeTableViewCell", "deinit"]
+- ["C4pick17MemeTableViewCell", "firstLabel"]
+- ["C4pick17MemeTableViewCell", "init"]
+- ["C4pick17MemeTableViewCell", "memeImage"]
+- ["C4pick17MemeTableViewCell", "secondLabel"]
+- ["PSo8NSCoding", "firstLabel"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "memeImage"]
+- ["PSo8NSCoding", "secondLabel"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "firstLabel"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "memeImage"]
+- ["CSo8NSObject", "secondLabel"]
+- ["PSo16NSObjectProtocol", "firstLabel"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "memeImage"]
+- ["PSo16NSObjectProtocol", "secondLabel"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo29UIAccessibilityIdentification", "firstLabel"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "memeImage"]
+- ["PSo29UIAccessibilityIdentification", "secondLabel"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "firstLabel"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "memeImage"]
+- ["PSo12UIAppearance", "secondLabel"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "firstLabel"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "memeImage"]
+- ["PSo21UIAppearanceContainer", "secondLabel"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "firstLabel"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "memeImage"]
+- ["PSo17UICoordinateSpace", "secondLabel"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "firstLabel"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "memeImage"]
+- ["PSo13UIDynamicItem", "secondLabel"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo27UIGestureRecognizerDelegate", "firstLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "memeImage"]
+- ["PSo27UIGestureRecognizerDelegate", "secondLabel"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "firstLabel"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "memeImage"]
+- ["CSo11UIResponder", "secondLabel"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "firstLabel"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "memeImage"]
+- ["CSo15UITableViewCell", "secondLabel"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo18UITraitEnvironment", "firstLabel"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "memeImage"]
+- ["PSo18UITraitEnvironment", "secondLabel"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "firstLabel"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "memeImage"]
+- ["CSo6UIView", "secondLabel"]
+- ["PSs12_Reflectable", "firstLabel"]
+- ["PSs12_Reflectable", "init"]
+- ["PSs12_Reflectable", "memeImage"]
+- ["PSs12_Reflectable", "secondLabel"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "C4pick17MemeTableViewCell"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "f6cf61057c93bc45a083dd480c7a1275"
